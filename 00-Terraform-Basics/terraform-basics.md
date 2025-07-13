@@ -87,7 +87,7 @@ Terraform is an open-source Infrastructure as Code (IaC) tool developed by Hashi
     - It's a good practice to use version control (e.g., Git) to manage your Terraform configurations. 
     - This helps track changes, collaborate with others, and roll back to previous versions if needed.
 
-    ![02-tf-workflow](../../Terraform-Images/imgs-basics//02-tf-workflow.avif)
+    ![02-tf-workflow](./../Terraform-Images/imgs-basics//02-tf-workflow.avif)
 
 
 <!-- 
