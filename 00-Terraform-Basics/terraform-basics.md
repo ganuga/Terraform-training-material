@@ -48,7 +48,7 @@ Terraform is an open-source Infrastructure as Code (IaC) tool developed by Hashi
 - Terraform creates and manages resources on cloud platforms and other services **through their application programming interfaces (APIs)**. 
 - **Providers** enable Terraform to work with virtually any platform or service with an accessible API.
 
-    ![01-tf-works](../../Terraform-Images/imgs-basics/01-tf-works.avif)
+    ![01-tf-works](./../Terraform-Images/imgs-basics/01-tf-works.avif)
 
 ## Terraform workflow
 
