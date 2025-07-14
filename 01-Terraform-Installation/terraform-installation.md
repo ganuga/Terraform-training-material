@@ -14,7 +14,13 @@ Simplest way to install and configure terraform on windows is via [chocolatey](h
 * [Terraform Installation on Linux](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 ## Mac
-* [Terraform Installation on Mac](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+* [Terraform Installation on Mac](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+    ```
+    brew tap hashicorp/tap
+    ```
+    ```
+    brew install hashicorp/tap/terraform
+     ```
 
 ## References 
 
